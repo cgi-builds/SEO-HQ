@@ -46,7 +46,7 @@ See the full [CHANGELOG](CHANGELOG.md) for details.
 ---
 ## ✨ Features
 
-🎯 **Task Management** — Kanban board with drag-and-drop across 7 status columns
+🎯 **Task Management** — Kanban board with drag-and-drop across 8 status columns
 
 🧠 **AI Planning** — Interactive Q&A flow where AI asks clarifying questions before starting work
 
@@ -229,7 +229,7 @@ Compose uses named volumes:
 ### Task Flow
 
 ```
-PLANNING → INBOX → ASSIGNED → IN PROGRESS → TESTING → REVIEW → DONE
+PLANNING → INBOX → ASSIGNED → IN PROGRESS → TESTING → REVIEW → VERIFICATION → DONE
 ```
 
 Drag tasks between columns or let the system auto-advance them.
